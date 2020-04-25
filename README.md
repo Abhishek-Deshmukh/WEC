@@ -1,5 +1,15 @@
-# WEC
+# WEC (Web crawling Email Collector)
 A Web Crawling email collector
+
+This python script goes through the web-page and looks for words provided in the list, and if those words are found stores the email addresses on the page into a database.
+It then repeats the same for all links on the page.
+No it does not run forever it only goes a few layers in.
+
+
+## use cases
+- looking for professors who do research in a particular field
+- marketing
+- etc...
 
 ## how to use
 - connect to the WIFI (You do not wanna do this on your mobile data).
