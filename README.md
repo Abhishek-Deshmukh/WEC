@@ -3,7 +3,8 @@ A Web Crawling email collector
 
 This python script goes through the web-page and looks for words provided in the list, and if those words are found stores the email addresses on the page into a database.
 It then repeats the same for all links on the page.
-No it does not run forever it only goes a few layers in.
+
+No, it does not run forever it only goes a few layers in.
 
 
 ## Use cases
