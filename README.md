@@ -6,12 +6,12 @@ It then repeats the same for all links on the page.
 No it does not run forever it only goes a few layers in.
 
 
-## use cases
+## Use cases
 - looking for professors who do research in a particular field
 - marketing
 - etc...
 
-## how to use
+## How to use
 - connect to the WIFI (You do not wanna do this on your mobile data).
 - clone or download the repository
 - install requirements (`pip install -r requirements.txt`).
@@ -23,7 +23,7 @@ No it does not run forever it only goes a few layers in.
   - wait (can take a while)(recommended to leave over night)
 - when done it will have created a [sqlite](https://sqlite.org/index.html) database which can be accessed using various tools e.g.: [sqlite browser](https://sqlitebrowser.org/dl) etc.
 
-### requirements
+### Requirements
 - [ python3 ](https://www.python.org/)
 - [ bs4 ](https://pypi.org/project/beautifulsoup4/)
 - [ requests ](https://2.python-requests.org/en/master/)
@@ -33,13 +33,13 @@ No it does not run forever it only goes a few layers in.
 ### List of institutes
 list of institutes can be selected from [ nature index ](https://www.natureindex.com/institution-outputs) and many other places
 
-### future prospects
+### Future prospects
 - write tests
 - make institute selection a part of the script
 - fine tune the algorithm as little
 - G.U.I.
 - M.L.
 
-##### note
+### Note
 Developers of the code are not responsible if you send an email you were not supposed to someone who was not supposed to get it.
 Therefore, it is recommended that you look at page form where the email has been picked before sending the email.
