@@ -1,4 +1,10 @@
 # WEC (Web crawling Email Collector)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub stars](https://img.shields.io/github/stars/Abhishek-Deshmukh/WEC?style=social&label=Star&maxAge=2592000)](https://GitHub.com/abhishek-deshmukh/WEC/stargazers/)
+[![GitHub issues](https://img.shields.io/github/issues/Abhishek-Deshmukh/WEC.svg)](https://GitHub.com/Abhishek-Deshmukh/WEC/issues/)
+
 A Web Crawling email collector
 
 This python script goes through the web-page and looks for words provided in the list, and if those words are found stores the email addresses on the page into a database.
