@@ -2,8 +2,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![GitHub stars](https://img.shields.io/github/stars/Abhishek-Deshmukh/WEC?style=social&label=Star&maxAge=2592000)](https://GitHub.com/abhishek-deshmukh/WEC/stargazers/)
 [![GitHub issues](https://img.shields.io/github/issues/Abhishek-Deshmukh/WEC.svg)](https://GitHub.com/Abhishek-Deshmukh/WEC/issues/)
+[![GitHub stars](https://img.shields.io/github/stars/Abhishek-Deshmukh/WEC?style=social&label=Star&maxAge=2592000)](https://GitHub.com/abhishek-deshmukh/WEC/stargazers/)
 
 A Web Crawling email collector
 
