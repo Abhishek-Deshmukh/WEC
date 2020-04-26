@@ -12,7 +12,7 @@ def valid_link(raw_link, link):
     """
     Valid: returns false for links which are social media or have words which not in the zone
 
-    Parameters:
+    Parameter:
     ------
     - raw_link: string
         the link whose validity is to be checked
@@ -270,12 +270,16 @@ def find_text(all_text, word_list):
     """
     Looks for the words hard-coded here in the text block
 
-    Parameters:
+    Parameter:
     ------
     - all_text: string
         the text to look into
     - word_list: string[]
         the list of words to look through
+
+    Return:
+    ------
+    - true or false
     """
     all_text.casefold()
 
@@ -299,7 +303,7 @@ def valid_email(mail):
     """
     Checks if the mail is valid
 
-    Parameters:
+    Parameter:
     ------
     mail: string
         the email address to check

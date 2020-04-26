@@ -15,7 +15,7 @@ def get_emails(page_soup):
     - have `mail` as word before them
     - have `contact` as word before them
 
-    Parameters:
+    Parameter:
     ------
     - page_soup: BeautifulSoup.soup
         the soup the page from where the mail addresses are to be extracted
@@ -66,10 +66,10 @@ def get_links(page_soup, link, website):
     """
     Takes links out and converts them to absolute paths
     - takes them out form a_tag["href"]
-    - give out link which might have relevent information
+    - give out link which might have relevant information
     - only returns valid links
 
-    Parameters:
+    Parameter:
     ------
     - page_soup: BeautifulSoup.soup
         the soup of the page whose links are to scraped

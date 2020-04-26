@@ -20,6 +20,10 @@ class Database:
         ------
         - path: string
             the path where the database is to be added
+
+        Return:
+        ------
+        - a Databse object
         """
 
         # establishing connection
@@ -50,7 +54,7 @@ class Database:
         """
         Adds the email and link into he database with a primary id
 
-        Parameters:
+        Parameter:
         ------
         - email: string
             the email to be added

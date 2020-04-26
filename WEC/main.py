@@ -29,7 +29,7 @@ def finder_helper(root, branch, level, words):
     - words: string[]
         the list of words to look for
 
-    Reutrn:
+    Return:
     ------
     - list of link found across all the pages from that branch
     """
@@ -101,12 +101,16 @@ def main(website_file_loc, word_file_loc):
     and
     saves the email found on pages which have those words
 
-    Parameters:
+    Parameter:
     ------
     - website_file_loc: string
         the relative/absolute path to the file which has the list websites
     - word_file_loc: string
         the relative/absolute path to the file which has the list of words to look for
+
+    Return:
+    ------
+    - nothing
     """
 
     # importing websites
