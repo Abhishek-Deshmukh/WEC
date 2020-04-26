@@ -124,7 +124,6 @@ def main(website_file_loc, word_file_loc):
 
 
 if __name__ == "__main__":
-    import sys
+    from sys import argv
 
-    ARGS = sys.argv
-    main(ARGS[1], ARGS[2])
+    main(argv[1], argv[2])
